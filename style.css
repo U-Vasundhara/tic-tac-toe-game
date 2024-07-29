@@ -1,0 +1,53 @@
+*{
+    background-color: #43766C;
+    margin:auto;
+    color:white;
+   
+    
+}
+.container{
+    margin:auto;
+}
+h1{
+    text-align: center;
+    margin:auto;
+}
+.app{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:black;
+    border:2px solid black;
+    height:500px;
+    align-items:center;
+    margin:auto;
+    margin-top:60px;
+    width:500px;
+
+}
+.box{
+    background-color:white;
+    height:300px;
+    width:300px;
+    margin:40px 40px 40px 40px;
+    
+}
+
+
+
+#txt{
+    width:250px;
+    height:35px;
+    justify-content:center;
+    margin-top:20px;
+    font-size:1.1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#btn{
+    margin-top:23px;
+    height:35px;
+    width:60px;
+    text-align:center;
+}
+
+
+
